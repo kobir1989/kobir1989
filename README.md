@@ -1,16 +1,56 @@
-### Hi there 👋
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  👋
 
-<!--
-**kobir1989/kobir1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You have finally discovered my Github profile.🌠 🌟
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+Ask me anything here
+or email me.
+
+Happy Coding! 😊
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### ⭐ GitHub Stats
+![enter image description here](https://github-readme-stats.vercel.app/api?username=kobir1989&&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### 😄 Pronouns: He/Him
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+### 🌱 I am currently learning React ⚛️ and improving my JavaScript skills. 💪
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### 👯 I am looking to collaborate on any web development projects. 🤩
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+### 🌴 My hobbies 🥾 I am passionate about nature and I love hiking 😍
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### 📫 How to reach me: kobir.h.ritu@gmail.com
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+###  Lets connect  => [Facebook ☕ ](https://www.facebook.com/)
