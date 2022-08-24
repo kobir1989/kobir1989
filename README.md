@@ -52,4 +52,7 @@ Happy Coding! 😊
 
 
 
-###  Lets connect  => [Facebook ☕ ](https://www.facebook.com/)
+###  Lets connect  
+
+ [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kabir.ritu/)  [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kh.ritu/)
+ 
