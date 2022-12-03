@@ -1,45 +1,40 @@
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  👋
+![](https://media.istockphoto.com/id/873945208/vector/young-programmer-coding-a-new-project.jpg?b=1&s=200x612&w=0&k=20&c=xr0KUptfEd9JYYQ3cOGTZC4IMTavxb6NkY2RuXQdJ6c=)
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  👋  I'm Kabir Hossain  
+### A passionate full stack developer.
 
 
+- 🌱 I am currently learning Node.js 
+- 🔭  I am looking to collaborate on any web development projects. 
+- 🌴 My hobbies 🥾 I am passionate about nature and I love hiking 😍
+- 💬 Ask me about MERN stack.
+- 📫 I'm only an email away kobir.h.ritu@gmail.com
+- ⚡I have never been great at being a morning person. Most mornings I hit the snooze button at least once or twice. 
 
-#### You have finally discovered my Github profile.🌠 🌟
-#### Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-#### ask me anything here
-#### or [Email](kobir.h.ritu@gmail.com) me.
-
-Happy Coding! 😊
-
-
-
-## ⭐ GitHub Stats
-![enter image description here](https://github-readme-stats.vercel.app/api?username=kobir1989&&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
+## ![](https://komarev.com/ghpvc/?username=kobir1989)
 
 
+### Skills:
+![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
+![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)
+![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
+![](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff)
+![](https://img.shields.io/badge/-JavsScript-F7DF1E?logo=javascript&logoColor=000)
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
+![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+![](https://img.shields.io/badge/-MongoDb-47A248?logo=mongodb&logoColor=fff)
+![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobir1989&&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kobir1989&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
 
 
-
-
-
- 
-### 🌱 I am currently learning Node.js  and improving my JavaScript skills. 💪
-
-
-### 👯 I am looking to collaborate on any web development projects. 🤩
-
-
-### 🌴 My hobbies 🥾 I am passionate about nature and I love hiking 😍
-
-
-
-
-
-###  Lets connect  
+ ### Lets Connect 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-hossain-07a69b238/)
- [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kabir.ritu/)
-[![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kh.ritu/)
-
- 
  
