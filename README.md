@@ -1,4 +1,6 @@
-![funIMG](https://user-images.githubusercontent.com/104571104/205431355-130abf14-1798-4d3c-b686-6a045f703b7a.gif)
+
+![img](https://user-images.githubusercontent.com/104571104/205431560-27c1af4b-ae44-4f48-9b14-1eaa904f9476.jpg)
+
 
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  👋  I'm Kabir Hossain  
 ### A passionate full stack developer.
