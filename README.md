@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/-MongoDb-47A248?logo=mongodb&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![](https://img.shields.io/badge/-git-e34f26?logo=git&logoColor=fff)
+![](https://img.shields.io/badge/-typescript-007acc?logo=typescript&logoColor=fff)
 
 
 ![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobir1989&&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
