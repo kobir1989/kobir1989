@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I am currently learning Node.js 
+- 🌱 I am currently working at Fusionread Inc. 
 - 🌴 My hobbies 🥾 I am passionate about nature and I love hiking 😍
 - 💬 Ask me about MERN stack.
 - 📫 I'm only an email away kobir.h.ritu@gmail.com
