@@ -5,13 +5,9 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  👋  I'm Kabir Hossain  
 ### A passionate full stack developer.
 
-
-
-- 🌱 I am currently working at Fusionread Inc. 
 - 🌴 My hobbies 🥾 I am passionate about nature and I love hiking 😍
 - 💬 Ask me about MERN stack.
 - 📫 I'm only an email away kobir.h.ritu@gmail.com
-- ⚡I have never been great at being a morning person. Most mornings I hit the snooze button at least once or twice. 
 
 ## ![](https://komarev.com/ghpvc/?username=kobir1989)
 
