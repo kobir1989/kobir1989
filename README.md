@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/-typescript-007acc?logo=typescript&logoColor=fff)
 
 
-![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobir1989&&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
+
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kobir1989&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
 
