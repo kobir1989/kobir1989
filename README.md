@@ -3,10 +3,10 @@
 
 
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  👋  I'm Kabir Hossain  
-### A passionate full stack developer.
+### A passionate Software Engineer.
 
 - 🌴 My hobbies 🥾 I am passionate about nature and I love hiking 😍
-- 💬 Ask me about MERN stack.
+- 💬 Ask me about JavaScript.
 - 📫 I'm only an email away kobir.h.ritu@gmail.com
 
 ## ![](https://komarev.com/ghpvc/?username=kobir1989)
