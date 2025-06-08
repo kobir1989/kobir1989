@@ -28,10 +28,14 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![](https://img.shields.io/badge/-git-e34f26?logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-typescript-007acc?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 
 
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kobir1989&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928)
+
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kobir1989&show_icons=true&title_color=38f53b&icon_color=a80d56&text_color=38f53b&bg_color=282928&v=1)
+
 
  
