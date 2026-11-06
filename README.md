@@ -1,41 +1,62 @@
+# Hi, I'm Kabir Hossain 👋
 
-![img](https://user-images.githubusercontent.com/104571104/205431560-27c1af4b-ae44-4f48-9b14-1eaa904f9476.jpg)
+### Senior Software Engineer
 
+I'm a Senior Software Engineer passionate about building scalable, maintainable, and user-friendly applications.
 
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  👋  I'm Kabir Hossain  
-### A passionate Software Engineer.
+I primarily work with **React, TypeScript, React Native and Next.js**, focusing on frontend architecture, reusable components, application performance, and delivering great user experiences.
 
-- 🌴 My hobbies 🥾 I am passionate about nature and I love hiking 😍
-- 💬 Ask me about JavaScript.
-- 📫 I'm only an email away kobir.h.ritu@gmail.com
+I enjoy exploring new technologies, solving complex problems, and continuously improving my engineering skills.
 
-## ![](https://komarev.com/ghpvc/?username=kobir1989)
+- 💻 Currently working with React, TypeScript, and modern frontend technologies.
+- 🌱 Exploring Java, Spring Boot, C#, and .NET 10.
+- 🧠 Interested in software architecture, backend development, and system design.
+- 🌴 Outside programming, I enjoy nature and hiking.
+- 📫 Reach me at: **kobir.h.ritu@gmail.com**
 
+---
 
-### Language and Tools
-![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
-![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)
-![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
-![](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff)
-![](https://img.shields.io/badge/-JavsScript-F7DF1E?logo=javascript&logoColor=000)
-![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
-![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
-![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
-![](https://img.shields.io/badge/-MongoDb-47A248?logo=mongodb&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![](https://img.shields.io/badge/-git-e34f26?logo=git&logoColor=fff)
-![](https://img.shields.io/badge/-typescript-007acc?logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-3776AB?logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+### Tech Stack
 
+**Frontend**
 
+![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Zustand-443E38?logo=react&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 
+**Backend & Databases**
 
+![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/.NET_10-512BD4?logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
+**Tools & Others**
 
- 
+![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+---
+
+### GitHub Statistics
+
+![](https://komarev.com/ghpvc/?username=kobir1989&color=blue)
+
+![](https://github-readme-stats.vercel.app/api?username=kobir1989&show_icons=true&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobir1989&layout=compact&theme=transparent)
