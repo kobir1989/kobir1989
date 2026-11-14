@@ -1,6 +1,5 @@
 # Hi, I'm Kabir Hossain 👋
 
-### Senior Software Engineer
 
 I'm a Senior Software Engineer passionate about building scalable, maintainable, and user-friendly applications.
 
